@@ -1,0 +1,55 @@
+<!DOCTYPE html> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <title>Студия 15</title> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <link rel="stylesheet" href="dist/e404.css@3IcBqD9DG9GqPJ7X3YfNJg"> <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png"> <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png"> <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png"> <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png"> <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png"> <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png"> <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png"> <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png"> <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png"> <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32"> <link rel="icon" type="image/png" href="android-chrome-192x192.png" sizes="192x192"> <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96"> <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16"> <link rel="manifest" href="manifest.json"> <link rel="mask-icon" href="safari-pinned-tab.svg" color="#d41f35"> <meta name="msapplication-TileColor" content="#d41f35"> <meta name="msapplication-TileImage" content="/mstile-144x144.png"> <meta name="theme-color" content="#ffffff"> <link rel="icon" type="image/x-icon" href="favicon.ico"/> </head> <body> <div class="page404"> <div class="page404-wrap"> <div class="page404-lenta"></div> <div class="page404-title"><span>Произошла</span> ошибка.</div> <a class="page404-link" title="Вернуться на главную" href="default.htm">Вернуться на главную</a> <div class="page404-text">
+                    Ваша ссылка устарела, либо такой страницы никогда не существовало.
+                </div> </div> </div> <script>
+            
+                var url = document.location.pathname + document.location.search;
+                var url_referrer = document.referrer;
+                var yaParams = {error404: {page: url, from: url_referrer}};
+            
+        </script> <script async src="../https@www.googletagmanager.com/gtag/js@id=UA-2718698-12"></script> <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-2718698-12');
+        </script> <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 864126878;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script> <script type="text/javascript" src="../https@www.googleadservices.com/pagead/conversion.js">
+        </script> <noscript> <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="../https@googleads.g.doubleclick.net/pagead/viewthroughconversion/864126878/@guid=ON&script=0"/> </div> </noscript> <script>
+            !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                '../https@connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '2708923679120884');
+            fbq('track', 'PageView');
+        </script> <noscript><img height="1" width="1" style="display:none" src="../https@www.facebook.com/tr@id=2708923679120884&ev=PageView&noscript=1" /></noscript> <!--ipt type="text/javascript" >
+          (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+          (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+          ym(9285820, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+          });
+
+          bindEvent = function (btn, event) {
+            if(btn) {
+              btn.addEventListener('click', function() {
+                ym(9285820, 'reachGoal', event);
+                return true;
+              });
+            }
+          };
+          bindEvent(document.getElementById('btn-feedback-send'), 'SEND');
+          bindEvent(document.getElementById('btn-feedback-send-ajax'), 'SEND');
+
+        </scri--> <noscript><div><img src="../https@mc.yandex.ru/watch/9285820" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <script src="dist/e404.js@F7fPXDEcK8TEt6+CQB9p9Q"></script> </body> </html>
